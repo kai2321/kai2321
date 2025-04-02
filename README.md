@@ -28,3 +28,13 @@ Here are some ideas to get you started:
 
 [![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,go,java,python,bash,postgres,mysql)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,go,java,python,bash,postgres,mysql)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://istio.io/">
+    <img src="https://github.com/istio/istio/raw/master/logo/istio-bluelogo-whitebackground-unframed.svg"
+         alt="Istio logo" title="Istio" height="60" width="60" />
+</a>
+
+<a href="https://envoy.io/">
+    <img src="https://raw.githubusercontent.com/servicemesher/envoy/refs/heads/master/images/favicon.ico"
+         alt="Envoy logo" title="Envoy" height="60" width="60" />
+</a>
+
