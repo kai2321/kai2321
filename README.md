@@ -1,7 +1,6 @@
-## Hi there 👋
 
 <!--
-**kai2321/kai2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MondayCha/MondayCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[kai2321's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai2321)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai2321&size_weight=0.5&count_weight=0.5&langs_count=8)
 
+### Hello There 👋
+
+* 😊 I am kai
+* 📚 Currently pursuing a Master's degree at Beihang University, major in Software Engineering
+* 🌱 Focusing on cloud network and cloud native, I am passionate about open source contributions and committed to building innovative, scalable solutions.
+
+### Github Stats 🔭
+
+![kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai2321&show_icons=true&theme=transparent)
+
+### Tech Stack 💻
+
+[![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,go,java,python,bash,postgres,mysql)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![skillicons](https://skillicons.dev/icons?i=kubernetes,docker,go,java,python,bash,postgres,mysql)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
